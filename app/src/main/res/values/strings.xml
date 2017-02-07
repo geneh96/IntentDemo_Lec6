@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IntentDemo_Lec6</string>
+    <string name="btn1_ma1_label">Move to UI2</string>
+
+    <string-array name="my_itm_list">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Grape</item>
+        <item>Orange</item>
+        <item>Pear</item>
+        <item>Peach</item>
+        <item>Dragon fruit</item>
+        <item>Pomegranate</item>
+        <item>Tomatoe</item>
+        <item>Coconut</item>
+        <item>Watermelon</item>
+        <item>Strawberry</item>
+        <item>Blueberry</item>
+        <item>Blackberry</item>
+        <item>Cantaloupe</item>
+        <item>Mango</item>
+        <item>Lime</item>
+
+
+    </string-array>
+</resources>
